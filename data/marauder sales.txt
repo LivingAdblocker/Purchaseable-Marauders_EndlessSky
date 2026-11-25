@@ -1,0 +1,185 @@
+shipyard "Northern Marauders"
+	
+	"Marauder Firebird"
+	"Marauder Firebird (Engines)"
+	"Marauder Firebird (Weapons)"
+	
+	"Marauder Raven"
+	"Marauder Raven (Engines)"
+	"Marauder Raven (Weapons)"
+	
+shipyard "Advanced Northern Marauders"
+	
+	"Marauder Leviathan"
+	"Marauder Leviathan (Engines)"
+	"Marauder Leviathan (Weapons)"
+	
+
+
+shipyard "Advanced Southern Marauders"
+	"Marauder Falcon"
+	"Marauder Falcon (Engines)"
+	"Marauder Falcon (Weapons)"
+
+shipyard "Core Marauders"
+	
+	"Marauder Bounder"
+	"Marauder Bounder (Engines)"
+	"Marauder Bounder (Weapons)"
+	"Marauder Manta"
+	"Marauder Manta (Engines)"
+	"Marauder Manta (Weapons)"
+	"Marauder Quicksilver"
+	"Marauder Quicksilver (Engines)"
+	"Marauder Quicksilver (Weapons)"
+	"Marauder Splinter"
+	"Marauder Splinter (Engines)"
+	"Marauder Splinter (Weapons)"
+	
+shipyard "Advanced Core Marauders"
+	
+	"Marauder Arrow"
+	"Marauder Arrow (Engines)"
+	"Marauder Arrow (Weapons)"
+	"Marauder Quicksilver (Safe)"
+	"Marauder Quicksilver (Engines) (Safe)"
+	"Marauder Quicksilver (Weapons) (Safe)"
+
+
+
+
+
+
+# shipyard "Basic Ships"
+	# "Shuttle"
+	# "Sparrow"
+	# "Star Barge"
+
+# shipyard "Tarazed Basics"
+	# "Sparrow"
+	# "Hawk"
+	# "Blackbird"
+
+# shipyard "Tarazed Advanced"
+	# "Osprey"
+	# "Falcon"
+
+# shipyard "Southbound Basics"
+	# "Clipper"
+	# "Fury"
+	# "Argosy"
+	# "Hauler"
+
+# shipyard "Southbound Advanced"
+	# "Hauler II"
+	# "Hauler III"
+	# "Bastion"
+
+# shipyard "Lionheart Basics"
+	# "Scout"
+	# "Dagger"
+	# "Flivver"
+	# "Headhunter"
+	# "Raven"
+	# "Mule"
+
+# shipyard "Lionheart Advanced"
+	# "Aerie"
+	# "Corvette"
+	# "Bactrian"
+
+# shipyard "Betelgeuse Basics"
+	# "Shuttle"
+	# "Heavy Shuttle"
+	# "Berserker"
+	# "Firebird"
+
+# shipyard "Betelgeuse Advanced"
+	# "Leviathan"
+	# "Behemoth"
+	# "Star Queen"
+	# "Hauler"
+
+# shipyard "Tycho Crater Advanced"
+	# "Hogshead"
+
+# shipyard "Navy Basics"
+	# "Rainmaker"
+	# "Gunboat"
+	# "Lance"
+	# "Combat Drone"
+	# "Surveillance Drone"
+	# "Dropship"
+
+# shipyard "Navy Advanced"
+	# "Frigate"
+	# "Cruiser"
+	# "Carrier"
+	# "Auxiliary"
+
+# shipyard "Megaparsec Basics"
+	# "Quicksilver"
+	# "Bounder"
+	# "Hauler"
+
+# shipyard "Megaparsec Advanced"
+	# "Splinter"
+	# "Manta"
+	# "Hauler II"
+
+# shipyard "Syndicate Basics"
+	# "Star Barge"
+	# "Wasp"
+	# "Freighter"
+	# "Sunder"
+	# "Mining Drone"
+
+# shipyard "Syndicate Advanced"
+	# "Bulk Freighter"
+	# "Container Transport"
+	# "Protector"
+	# "Vanguard"
+	# "Arrow"
+
+# shipyard "Northern Pirates"
+	# "Berserker"
+	# "Dagger"
+	# "Firebird"
+	# "Headhunter"
+	# "Scrapper"
+
+# shipyard "Advanced Northern Pirates"
+	# "Aerie"
+	# "Leviathan"
+	# "Mule"
+
+# shipyard "Southern Pirates"
+	# "Argosy"
+	# "Clipper"
+	# "Fury"
+	# "Hawk"
+	# "Scrapper"
+
+# shipyard "Advanced Southern Pirates"
+	# "Falcon"
+	# "Modified Argosy"
+	# "Osprey"
+
+# shipyard "Core Pirates"
+	# "Manta"
+	# "Quicksilver"
+	# "Scrapper"
+	# "Splinter"
+	# "Wasp"
+
+# shipyard "Advanced Core Pirates"
+	# "Protector"
+	# "Vanguard"
+
+# shipyard "Luxury Ships"
+	# "Shuttle"
+	# "Blackbird"
+	# "Falcon"
+	# "Arrow"
+	# "Star Queen"
+	# "Flivver"

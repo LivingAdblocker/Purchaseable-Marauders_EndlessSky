@@ -1,0 +1,46 @@
+
+
+planet "Buccaneer Bay"
+	add shipyard "Core Marauders"
+	add shipyard "Advanced Core Marauders"
+	add shipyard "Southern Marauders"
+	add shipyard "Northern Marauders"
+
+planet Covert
+	add shipyard "Southern Marauders"
+	add shipyard "Core Marauders"
+
+planet Freedom
+	add shipyard "Northern Marauders"
+
+planet Greenrock
+	add shipyard "Core Marauders"
+	add shipyard "Southern Marauders"
+	add shipyard "Advanced Southern Marauders"
+	add shipyard "Northern Marauders"
+	
+planet Haven
+	add shipyard "Core Marauders"
+	add shipyard "Northern Marauders"
+	add shipyard "Advanced Northern Marauders"
+
+planet Mordente-Bridi
+	add shipyard "Advanced Southern Marauders"
+	add shipyard "Betelgeuse Advanced"
+	add shipyard "Betelgeuse Basics"
+	add shipyard "Southern Marauders"
+
+planet "New Tortuga"
+	add shipyard "Core Marauders"
+	add shipyard "Advanced Core Marauders"
+	add shipyard "Southern Marauders"
+	add shipyard "Northern Marauders"
+	
+planet "Smuggler's Den"
+	add shipyard "Southern Marauders"
+	add shipyard "Advanced Southern Marauders"
+	add shipyard "Core Marauders"
+	add shipyard "Advanced Core Marauders"
+
+
+

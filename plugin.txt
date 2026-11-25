@@ -1,0 +1,5 @@
+name "Purchaseable Marauders"
+about "Makes it possible to purchase the marauder variants of human ships at select locations."
+authors
+	Living_Adblocker
+	ZeroTWO002

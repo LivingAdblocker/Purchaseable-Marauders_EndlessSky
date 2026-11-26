@@ -42,5 +42,8 @@ planet "Smuggler's Den"
 	add shipyard "Core Marauders"
 	add shipyard "Advanced Core Marauders"
 
+planet Rust
+	add shipyard "Kraz Modified"
+
 
 

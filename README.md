@@ -10,8 +10,11 @@ Also changed is the edition of the Modified ships, which were not included in Ze
 
 [This section is incomplete] 
 If you have the listed plugin, these ships should appear in shipyards:
+
 Lost In Midnight:
+
   Marauders:
+  
     Argosy
     Barb
     Bastion

@@ -32,4 +32,4 @@ Lost In Midnight:
     +variants for most of the vanilla marauders, excluding "secret prototype" variants.
   
     
-If you don't have these plugins, you'll be fine.
+If you don't have these plugins, you'll be fine, but there will be less ships in the shipyards. I reccommed you go download them, especially LiM if you want any good modified ships since there's only one in vanilla.
